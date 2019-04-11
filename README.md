@@ -24,3 +24,25 @@ https://github.com/jhuangtw-dev/xg2xg
 | Tupperware    |                                             | [Kubernetes](https://kubernetes.io/), [Apache Mesos](https://github.com/apache/mesos), [HashiCorp Nomad](https://github.com/hashicorp/nomad)      |
 | Proxygen      |                                             | ELB, [HAProxy](http://www.haproxy.org/), [Istio](https://istio.io/), [F5](https://f5.com/products/big-ip), [envoy](https://github.com/lyft/envoy), [Traefik](https://traefik.io/)|
 | Open Compute Hardware  | [open compute](http://www.opencompute.org/) |                                                                                                                                                   |
+### Storage
+
+| FB Internal   | FB External  | Open Source / Real-World |
+| ------------- | ------------ | -------------            |
+| Gluster       |              |                          |
+
+
+
+### Services
+
+| FB Internal   | FB External  | Open Source   | SaaS          |
+| ------------- | ------------ | ------------- | ------------- |
+| FBAR          |              |               |               |
+| Phabricator   |              |               |               |
+
+### Security
+| FB Internal                      | FB External  | Real-World                                                              |
+| -------------                    | ------------ | -------------                                                           |
+
+## IT / Operations
+| FB Internal                                                                              | Real-World                                                                                                                                 |
+| -------------                                                                            | -------------                    
