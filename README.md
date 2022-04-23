@@ -8,16 +8,16 @@ https://github.com/jhuangtw-dev/xg2xg
 
 ### Core Services
 
-| FB Internal   | FB External   | Open Source / Real-World |
+| FB Internal   |  Open Source | Commercial / Proprietary |
 | ------------- | ------------- | -------------            | 
-| Scuba|||
-| Scribe|||
+| Scuba| Kibana, ElasticSearch |Datadog Logs, |
+| Scribe| Kafka|AWS Kinesis|
 | ODS|| [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io), [librato](https://www.librato.com), [newrelic](http://newrelic.com)|
 | Thrift| [Thrift](https://github.com/apache/thrift) | Bolt , [gRPC](https://github.com/grpc/grpc)
 | SMC (Service Discovery) || [Apache Zookeeper](https://github.com/apache/zookeeper), [etcd](https://github.com/coreos/etcd), [HashiCorp Consul](https://github.com/hashicorp/consul)|
-| Scribe|  [LogDevice](https://github.com/facebookincubator/LogDevice)|[Apache Kafka](https://github.com/apache/kafka),|
-| Gatekeeper|||
-| Deltoid|||
+| Gatekeeper|Flagsmith||
+| Deltoid||Optimizely, [StatiSig (former fb founders](https://statsig.com)|
+
 
 ### General Infrastructure
 | FB Internal   | FB External                                 | Open Source / Real-World |
